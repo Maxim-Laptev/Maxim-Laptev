@@ -3,7 +3,7 @@
 ## About me:
 **Hello everyone, my name is Maxim, at the moment I am studying the Java programming language and I plan to become a Java programmer. I am ready to cooperate and can help with some projects.** 👨‍💻
 
-*You can also view my repositories, information about what they are, what they have, etc. is available in this file below.*
+*You can also view my repositories, information about what they are, what they have, etc. is available in this file below.* 🔽
 _______________________
 ### In my repositories on my GitHub page you can find:
 + **Homework from courses, etc.** 📚
