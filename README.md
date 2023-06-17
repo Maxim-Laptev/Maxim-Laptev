@@ -1,5 +1,7 @@
 # Hi, guys! 👋
-                                                   Welcome to my GitHub page! 😉
+
+*Welcome to my GitHub page!* 😉
+
 ## About me:
 **Hello everyone, my name is Maxim, at the moment I am studying the Java programming language and I plan to become a Java programmer. I am ready to cooperate and can help with some projects.** 👨‍💻
 
