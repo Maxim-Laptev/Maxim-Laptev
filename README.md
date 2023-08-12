@@ -19,5 +19,5 @@ _______________________
 + **Python**
 _______________________
 ### IDE:
-+ **eclipde IDE** - Java
-+ **PyCharm* (Community Edition) - Python
++ **eclipde IDE** - *Java*
++ **PyCharm** (Community Edition) - *Python*
