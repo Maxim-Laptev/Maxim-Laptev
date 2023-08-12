@@ -16,6 +16,8 @@ _______________________
 _______________________
 ### Programming language:
 + **Java**
++ **Python**
 _______________________
 ### IDE:
-+ I use **eclipde IDE**
++ **eclipde IDE** - Java
++ **PyCharm* (Community Edition) - Python
